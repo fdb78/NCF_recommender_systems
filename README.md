@@ -1,1 +1,1 @@
-# NCF_recommender_systems
+# Projet : Etude des systèmes de recommandation
