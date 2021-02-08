@@ -4,7 +4,7 @@
 <p> Ce projet s'inspire des articles de recherche Neural Collaborative Filtering paru en 2017 et Neural Collaborative Filtering vs. Matrix Factorization revisited paru en 2020. Le but du projet est de reproduire les expériences menées par les auteurs de ces deux articles, et de vérifier les conclusion du deuxième article, qui remet en question les résultats du premier article en affirmant que finalement le modèle MF offre de meilleures performances que les autres modèles plus complexes qui utilisent un apprentissage via des réseaux de neurones. <p>
   
   Vous trouverez les deux articles respectivement en cliquant sur les liens suivants:
-  https://arxiv.org/pdf/1708.05031.pdf
-  https://arxiv.org/pdf/2005.09683.pdf
+  [Neural Collaborative Filtering - 2017](https://arxiv.org/pdf/1708.05031.pdf)  
+  [Neural Collaborative Filtering vs. Matrix Factorization Revisited - 2020]( https://arxiv.org/pdf/2005.09683.pdf)
 
 Florent DE BORTOLI - Etudiant Eurecom - Data Science
