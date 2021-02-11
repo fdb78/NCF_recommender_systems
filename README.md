@@ -9,6 +9,6 @@ Vous trouverez les deux articles respectivement en cliquant sur les liens suivan
   
 J'ai mis dans le dossier Data une partie des données sur lesquelles j'ai travaillé, mais je n'ai pas pu uploader le dernier fichier (pinterest.test.negative) car il est trop gros. Vous pouvez donc télécharger l'ensemble des données (MovieLens et Pinterest) dans le dépôt GitHub du premier article situé ici:  
 https://github.com/hexiangnan/neural_collaborative_filtering/tree/master/Data  
-En revanche le dataset d'Amadeus est bien situé dans le dossier Data, il s'agit du fichier Travel_28K.csv.
+En revanche le dataset Airline Travel Dataset est un dataset qui vient de l'industrie et donc qui ne peut être publié ici sur ce dépôt public.
 
 Florent DE BORTOLI - Etudiant Eurecom - Data Science
